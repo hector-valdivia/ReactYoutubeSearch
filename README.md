@@ -4,7 +4,7 @@ From the tutorials of udemy. Interested go to [Redux](https://www.udemy.com/reac
 
 ####To Make it work just#####
 
-It's based on this repo https://github.com:StephenGrider/ReduxSimpleStarter.git.
+It's based on this repo https://github.com:StephenGrider/ReduxSimpleStarter.git
 
 To make it work just
 
